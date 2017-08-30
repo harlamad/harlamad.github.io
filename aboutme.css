@@ -1,0 +1,62 @@
+h1{
+    
+    font-family:'Kaushan Script', cursive;
+    color:rgb(0,0,102);
+    
+}
+
+
+h2, q{
+    
+text-align:center;
+font-size:25px;
+font-family:'Russo One', sans-serif;
+color:yellow;
+background-color: rgba(0,0,0,1.0);
+quotes: "\00ab" "\00bb";
+
+}
+
+p{
+    
+    font-family:'Berkshire Swash', cursive;
+    font-size:23px;
+    color: #cc0066;
+    line-height: 2em;
+}
+
+body{
+    
+    background-color:lightskyblue;
+    
+}
+
+ul {
+    list-style-type: square;
+    font-size:20px;
+    font-family: 'Patrick Hand', cursive;
+    color:Crimson;
+    
+}
+
+ol {
+    list-style-type:lower-alpha;
+    font-size:18px;
+    font-family: 'Shrikhand', cursive;
+    color:Darkred;
+
+}
+
+a{
+    
+    color:teal;
+    text-decoration: none;
+    
+}
+
+h4{
+    
+    text-decoration: underline;
+    line-height: 1 em;
+    
+}
