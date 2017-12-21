@@ -1,7 +1,8 @@
 h1{
+h1{
     
     font-family:'Kaushan Script', cursive;
-    color:rgb(0,0,102);
+    color:#BB3D3D;
 }
 
 
@@ -10,8 +11,8 @@ h2, q{
 text-align:center;
 font-size:25px;
 font-family:'Russo One', sans-serif;
-color:yellow;
-background-color: rgba(0,0,0,1.0);
+color:white;
+background-color:purple;
 quotes: "\00ab" "\00bb";
 
 }
@@ -26,11 +27,9 @@ p{
 
 body{
     
-    background-color:lightskyblue;
+    background-color:black;
     
 }
-
-
 
 ul {
     list-style-type: square;
