@@ -1,0 +1,40 @@
+.q1, .q2, .q3, .q4, .q5, .q6,.q7, .q8, .q9, .q10, .q11, .q1-choice, .q2-choice, .q3-choice, .q4-choice, .q5-choice, .q6-choice, .q7-choice, .q8-choice, .q9-choice, .q10-choice, .q11-choice{
+ 
+ display:none;
+    
+}
+
+.sidebar{
+    
+    float: left;
+    width: 22.22%;
+    background:	#876524;
+    color:black;
+    font-family: 'Playball', cursive;
+    
+}
+
+h1, h2, image{
+    
+    color:#be9b7b;
+    background:	#ae0001;
+    font-family: 'Tangerine', cursive, bold;
+    text-align:center;
+
+}
+
+body {
+    background-color:#ecba5c ;
+    color:#2f2800;
+    
+}
+
+iframe{
+    
+    display:none;
+    
+    
+}
+
+
+
